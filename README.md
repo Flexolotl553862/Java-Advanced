@@ -1,6 +1,6 @@
 # Тесты к курсу «Технологии Java»
 
-[Условия домашних заданий](https://www.kgeorgiy.info/courses/java-advanced/homeworks.html)
+[Условия домашних заданий](statements.html)
 
 
 ## Домашнее задание 15. TextStatistics
