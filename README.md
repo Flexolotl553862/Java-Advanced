@@ -258,7 +258,7 @@
     * тесты
         * [базовый модуль](java-advanced-2025/artifacts/info.kgeorgiy.java.advanced.base.jar)
         * [тестовый модуль](java-advanced-2025/artifacts/info.kgeorgiy.java.advanced.walk.jar) (свой для каждого ДЗ)
-    * [библиотеки](lib)
+    * [библиотеки](java-advanced-2025/lib)
  * Откомпилируйте решение домашнего задания
  * Протестируйте домашнее задание
     * Текущая директория должна:
